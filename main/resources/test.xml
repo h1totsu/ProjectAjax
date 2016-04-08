@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<goods>
+    <good>
+        <name>Good1</name>
+        <price>1</price>
+        <serial>1111</serial>
+        <image>img/image.png</image>
+        <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Ad adipisci architecto asperiores atque distinctio, dolorem, dolorum enim illum impedit magnam molestias nesciunt nihil obcaecati odit repellendus sapiente similique voluptatibus voluptatum!
+        </description>
+    </good>
+    <good>
+        <name>Good2</name>
+        <price>2</price>
+        <serial>2222</serial>
+        <image>img/image.png</image>
+        <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Ad adipisci architecto asperiores atque distinctio, dolorem, dolorum enim illum impedit magnam molestias nesciunt nihil obcaecati odit repellendus sapiente similique voluptatibus voluptatum!
+        </description>
+    </good>
+    <good>
+        <name>Good3</name>
+        <price>3</price>
+        <serial>3333</serial>
+        <image>img/image.png</image>
+        <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Ad adipisci architecto asperiores atque distinctio, dolorem, dolorum enim illum impedit magnam molestias nesciunt nihil obcaecati odit repellendus sapiente similique voluptatibus voluptatum!
+        </description>
+    </good>
+    <good>
+        <name>Good4</name>
+        <price>4</price>
+        <serial>4444</serial>
+        <image>img/image.png</image>
+        <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Ad adipisci architecto asperiores atque distinctio, dolorem, dolorum enim illum impedit magnam molestias nesciunt nihil obcaecati odit repellendus sapiente similique voluptatibus voluptatum!
+        </description>
+    </good>
+    <good>
+        <name>Good5</name>
+        <price>5</price>
+        <serial>5555</serial>
+        <image>img/image.png</image>
+        <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Ad adipisci architecto asperiores atque distinctio, dolorem, dolorum enim illum impedit magnam molestias nesciunt nihil obcaecati odit repellendus sapiente similique voluptatibus voluptatum!
+        </description>
+    </good>
+</goods>

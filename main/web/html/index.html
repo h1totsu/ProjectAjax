@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <div id="good">
+            <ul id="list">
+
+            </ul>
+
+        </div>
+        <div id="popupOverlay">
+            <div id="popupSection"></div>
+        </div>
+    </body>
+    <script src="script.js"></script>
+    <script>
+        var xhr = new XMLHttpRequest;
+        xhr.onreadystatechange = function() {
+            if (xhr.readyState == 4 && xhr.status == 200) {
+                renderViews(JSON.parse(xhr.responseText));
+            }
+        };
+        xhr.open("GET", "info.php", true);
+        xhr.send();
+    </script>
+</html>
